@@ -51,7 +51,6 @@
 }
 .ex-5-square:active{
     transform:scale(0.5)
-    transition: 3s;
 }
 .ex-6-img, .ex-7-img, .ex-8-img {
     width: 500px;
